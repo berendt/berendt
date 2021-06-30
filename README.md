@@ -7,3 +7,4 @@ Involved companies and projects:
 * https://github.com/23technologies
 * https://github.com/SovereignCloudStack
 * https://github.com/osism
+* https://github.com/stockwerk42
